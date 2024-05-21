@@ -1,6 +1,4 @@
 # Contador de Números
-
-## Sobre mim
 Este projeto foi desenvolvido como parte do Bootcamp Santander com a DIO. O objetivo do projeto é criar um contador de números que solicita ao usuário dois parâmetros e imprime todos os números entre esses dois valores. Se o primeiro valor for maior que o segundo, uma exceção personalizada é lançada.
 
 ## Funcionalidades
